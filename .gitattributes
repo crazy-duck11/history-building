@@ -1,1 +1,1 @@
-*.jpg *.png filter=lfs merge=lfs -text
+*.jpg*.png filter=lfs merge=lfs -text
